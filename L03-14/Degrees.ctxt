@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Degrees
+comment1.params=deg
+comment1.target=void\ CelsiusToKelvin(float)
+comment2.params=deg
+comment2.target=void\ KelvinToCelsius(float)
+comment3.params=deg
+comment3.target=void\ CelsiusToFahrenheit(float)
+comment4.params=deg
+comment4.target=void\ FahrenheitToCelsius(float)
+comment5.params=deg
+comment5.target=void\ FahrenheitToKelvin(float)
+comment6.params=deg
+comment6.target=void\ KelvinToFahrenheit(float)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
