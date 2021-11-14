@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=number
+comment1.target=Room(int)
+comment10.params=rooms
+comment10.target=void\ displayVacancyReport(Room[])
+comment11.params=rooms
+comment11.target=void\ displayBedVacancyReport(Room[])
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=number\ beds
+comment2.target=Room(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=guestName
+comment4.target=void\ checkin(java.lang.String)
+comment5.params=
+comment5.target=void\ checkout()
+comment6.params=
+comment6.target=void\ isOccupied()
+comment7.params=rooms\ number
+comment7.target=void\ displaySingleRoom(Room[],\ int)
+comment8.params=rooms
+comment8.target=void\ displayReport(Room[])
+comment9.params=rooms\ beds
+comment9.target=void\ displayBedReport(Room[],\ int)
+numComments=13

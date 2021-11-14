@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=author\ pages\ isBorrowed
+comment1.target=Book(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment3.params=
+comment3.target=int\ getPages()
+comment4.params=
+comment4.target=boolean\ getIsBorrowed()
+comment5.params=author
+comment5.target=void\ setAuthor(java.lang.String)
+comment6.params=pages
+comment6.target=void\ setPages(int)
+comment7.params=isBorrowed
+comment7.target=void\ setIsBorrowed(boolean)
+numComments=8
