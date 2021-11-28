@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bookcase
+comment1.params=capacity
+comment1.target=void\ setCapacity(int)
+comment2.params=
+comment2.target=int\ getCapacity()
+comment3.params=book
+comment3.target=void\ addBook(Book)
+comment4.params=book
+comment4.target=void\ removeBook(Book)
+comment5.params=
+comment5.target=void\ displayInfo()
+comment6.params=capacity
+comment6.target=Bookcase(int)
+numComments=7
